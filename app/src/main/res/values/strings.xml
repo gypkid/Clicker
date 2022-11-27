@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FastFood Clicker</string>
+    <string name="newGameBtn">New Game</string>
+    <string name="exitBtn">EXIT</string>
+    <string name="optionsBtn">Options</string>
+    <string name="rankingBtn">Ranking</string>
+    <string name="tvRanking">Ranking</string>
+    <string name="continueBtn">Continue</string>
+    <string name="tvTitle">FastFood Clicker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvMoney">Money:</string>
+    <string name="tvScore">Score:</string>
+</resources>
